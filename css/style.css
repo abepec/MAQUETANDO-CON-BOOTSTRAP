@@ -1,0 +1,34 @@
+#menu{
+    height:50px;
+}
+#menu ul a{
+    line-height:50px;
+    text-decoration: none;
+}
+.item{
+    height:18rem;
+}
+footer{
+    height:50px;
+    line-height:50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lateral{
+    height:350px;
+}
+.lateral > div {
+    height:calc(350px/2);
+}
+.img-abe{
+    width:60%;
+    border-radius:200px;
+    padding: auto;
+}
+Footer ul li {
+    display: inline-block;
+}
+.img-trabajo{
+    height: 140px;
+}
